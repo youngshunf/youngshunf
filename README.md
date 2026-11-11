@@ -1,4 +1,4 @@
-# Shunfun Yang
+# Shunfu Yang
 
 14-year full-stack engineer. I design and ship AI agent products, LLM integrations, and web systems — currently from Kunming, China (UTC+8).
 
